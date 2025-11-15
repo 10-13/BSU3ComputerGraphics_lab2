@@ -1,0 +1,10 @@
+[package]
+name = "BSU3ComputerGraphics_lab2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.29"
+egui = "0.29"
+image = "0.25"
+rfd = "0.14"
